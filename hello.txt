@@ -1,2 +1,6 @@
 add some values
+<<<<<<< HEAD
 add from local repository
+=======
+add from github
+>>>>>>> 760af15e3164e138f963a5165211e2893e02bfc4
